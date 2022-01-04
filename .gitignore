@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+#所有dist目录
+dist
+#只管根目录下的dist
+/dist
+dist-ssr
+*.local
